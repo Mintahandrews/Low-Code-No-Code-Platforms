@@ -68,6 +68,7 @@ Low-Code/No-Code platforms are transforming software development by enabling rap
   - [🔄 Workflow Automation](#workflow-automation)
   - [🗄️ Database & Backend](#database--backend)
   - [🖼️ Frontend Builders](#frontend-builders)
+  - [🎨 Design Systems Tools](#design-systems-tools)
   - [📱 Mobile Development](#mobile-development)
   - [🤖 AI/ML Platforms](#aiml-platforms)
 
@@ -320,6 +321,136 @@ Low-Code/No-Code platforms are transforming software development by enabling rap
 
 ---
 
+### 🎨 Design Systems Tools
+
+#### [Zeplin](https://zeplin.io/)
+
+> Design hand-off collaboration tool between designers and developers
+
+**Key Features:**
+
+- Seamless design-to-development handoff
+- Automatic style guide generation
+- Code snippets for multiple platforms
+- Version control for designs
+- Team collaboration features
+
+**Best For:** Design handoff, style guides, developer collaboration
+
+---
+
+#### [zeroheight](https://zeroheight.com/)
+
+> Platform for creating and maintaining beautiful design system documentation
+
+**Key Features:**
+
+- Interactive design system documentation
+- Component library integration
+- Developer-friendly API documentation
+- Brand guidelines management
+- Analytics and usage tracking
+
+**Best For:** Design system documentation, component libraries, brand guidelines
+
+---
+
+#### [Chromatic](https://www.chromaticqa.com/)
+
+> Visual testing platform for UI components
+
+**Key Features:**
+
+- Automated visual regression testing
+- Component visual testing
+- Cross-browser compatibility checks
+- Integration with CI/CD pipelines
+- Visual diff reviews
+
+**Best For:** Component testing, visual regression, UI consistency
+
+---
+
+#### [Abstract](https://www.goabstract.com/)
+
+> Version control platform for design files
+
+**Key Features:**
+
+- Git-like version control for designs
+- Real-time collaboration
+- Design file management
+- Branch and merge capabilities
+- Integration with design tools
+
+**Best For:** Design version control, team collaboration, file management
+
+---
+
+#### [Framer](https://framer.com/)
+
+> Multi-platform design and prototyping tool
+
+**Key Features:**
+
+- Responsive design across platforms
+- Interactive prototyping
+- Code generation
+- Component-based design
+- Real-time collaboration
+
+**Best For:** Interactive prototypes, responsive design, rapid prototyping
+
+---
+
+#### [Fractal](https://fractal.build/)
+
+> Tool for building and documenting web component libraries
+
+**Key Features:**
+
+- Component library documentation
+- Interactive component playground
+- Build system integration
+- Customizable documentation
+- API documentation generation
+
+**Best For:** Component libraries, documentation, design systems
+
+---
+
+#### [Lingo](https://www.lingoapp.com/use-cases/design-system-manager/)
+
+> Design system management and sharing platform
+
+**Key Features:**
+
+- Centralized asset management
+- Design token management
+- Team collaboration tools
+- Version control for assets
+- Integration with design tools
+
+**Best For:** Asset management, design tokens, team collaboration
+
+---
+
+#### [Lucid](https://lucid.style/)
+
+> Tool for creating, managing, and sharing design systems
+
+**Key Features:**
+
+- Component library creation
+- Style guide generation
+- Design documentation
+- Sharing and collaboration
+- Customizable templates
+
+**Best For:** Design system creation, documentation, team sharing
+
+---
+
 ### 📱 Mobile Development
 
 #### [FlutterFlow](https://github.com/FlutterFlow/flutterflow-issues)
@@ -353,6 +484,75 @@ Low-Code/No-Code platforms are transforming software development by enabling rap
 - Open source & self-hosted
 
 **Best For:** AI chatbots, document Q&A, workflow automation
+
+---
+
+#### [Figma AI](https://www.figma.com/design/) ⭐ 50k+
+
+> AI-powered collaborative design platform with advanced visual editing and design system integration
+
+**Key Features:**
+
+- AI image generation from text prompts
+- Smart fills and background removal
+- Component libraries and design tokens preservation
+- Contextual layer naming and asset search
+- Auto-generated filler copy for mockups
+- Real-time collaboration and Dev Mode handoff
+- Responsive design and layout scaling
+
+**Best For:** UI/UX design, prototyping, design system management
+
+---
+
+#### [Canva Magic Studio](https://www.canva.com/magic-studio/)
+
+> AI design generator for social media posts and marketing visuals
+
+**Key Features:**
+
+- Text prompt-based design generation
+- Brand kit and consistency tools
+- Magic Animate for one-click motion
+- Magic Switch for cross-platform resizing
+- Automated video generation
+- Real-time collaboration
+
+**Best For:** Social media content, marketing visuals, brand assets
+
+---
+
+#### [Uizard](https://uizard.io/)
+
+> AI-powered app design tool that converts sketches to interactive prototypes
+
+**Key Features:**
+
+- Sketch-to-prototype conversion
+- Hand-drawn UI element detection
+- Theme customization and style generator
+- Export integration with design tools
+- Collaborative workspace
+- Rapid concept validation
+
+**Best For:** App prototyping, concept validation, non-designers
+
+---
+
+#### [Supernova](https://www.supernova.io/)
+
+> AI-powered design system platform for enterprise product teams
+
+**Key Features:**
+
+- AI-assisted design system automation
+- Codebase analysis and Figma import
+- Component library generation
+- Design token management
+- Production-ready feature building
+- Enterprise-grade security
+
+**Best For:** Enterprise design systems, component libraries, team collaboration
 
 ---
 
