@@ -610,6 +610,23 @@ Low-Code/No-Code platforms are transforming software development by enabling rap
 
 ---
 
+#### [Iotellect](https://iotellect.com)
+
+> Enterprise low-code IoT platform for device integration, data collection, and visual application building
+
+**Key Features:**
+
+- Visual workflow and dashboard builders
+- 100+ protocol support (MQTT, OPC-UA, SNMP, Modbus, and more)
+- Device management and remote monitoring
+- Edge computing with gateway deployment
+- Real-time data visualization and alerting
+
+**Pricing:** Contact sales
+**Best For:** IoT solutions, industrial automation, smart building management, device fleet management
+
+---
+
 #### Superblocks
 
 > Platform for building secure internal apps and AI-assisted app generation for enterprises.
