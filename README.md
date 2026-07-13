@@ -471,6 +471,22 @@ Low-Code/No-Code platforms are transforming software development by enabling rap
 
 ### 🤖 AI/ML Platforms
 
+#### [LLMGraph](https://llmgraph.ai)
+
+> No-code visual builder for LLM workflows — build on a canvas or by chat
+
+**Key Features:**
+
+- Visual graph builder for LLM/AI workflows
+- Build by chat — describe the workflow, LLMGraph assembles it
+- RAG / document search over your own docs
+- One-click deploy to a REST API + embeddable chat widget
+- No infrastructure to manage
+
+**Best For:** RAG chatbots, support bots, autonomous AI agents
+
+---
+
 #### [Flowise](https://github.com/FlowiseAI/Flowise) ⭐ 25k+
 
 > Drag & drop UI to build customized LLM flows
