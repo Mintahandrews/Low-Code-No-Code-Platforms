@@ -487,6 +487,22 @@ Low-Code/No-Code platforms are transforming software development by enabling rap
 
 ---
 
+#### [Shogo](https://github.com/shogo-labs/shogo-ai) ⭐ 15
+
+> Open-source platform for building and running AI agents that take actions across your systems
+
+**Key Features:**
+
+- Chat-configured agents that run on a scheduled heartbeat, not just on request
+- Hundreds of integrations via Composio and MCP, plus Slack/Telegram/Discord channels
+- Agent-generated React dashboards and apps on a live canvas
+- TypeScript monorepo; SDK and client libraries MIT-licensed, server components AGPL-3.0
+- Self-hosted or cloud
+
+**Best For:** Monitoring and ops agents, internal tools, cross-system back-office automation
+
+---
+
 #### [Figma AI](https://www.figma.com/design/) ⭐ 50k+
 
 > AI-powered collaborative design platform with advanced visual editing and design system integration
