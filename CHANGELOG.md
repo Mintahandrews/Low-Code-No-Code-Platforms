@@ -15,6 +15,25 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Issue and PR templates
 - Security policy
 - License file
+- **New platforms (2026 update):**
+  - Visual Development: ILLA Builder, Lowcoder, Saltcorn
+  - Workflow Automation: Windmill, Kestra, Automatisch
+  - Database & Backend: PocketBase, Teable, NocoBase, Convex, Grist
+  - Frontend Builders: Webstudio, Onlook, Puck, Craft.js, VvvebJs
+  - Design Systems: Penpot, Tokens Studio, Specify, Knapsack, Storybook
+  - Mobile Development: Draftbit, Thunkable, Rork, Nowa, a0.dev
+  - AI/ML: Dify, Langflow, Sim, Dyad, bolt.diy, Botpress, Motiff, Relume, Jev, Coze Studio, Suna, Gumloop, Relevance AI, Agenta, Dust, Vertex AI Agent Builder
+  - Enterprise: Appian, Salesforce Platform, Zoho Creator, AWS App Studio, Quickbase, Kissflow, Copilot Studio, ServiceNow App Engine
+  - Rapid Development: Webflow, Lovable, Bolt.new, v0, Replit, Softr, Glide, WeWeb, Momen, Toddle, Builder.io, Emergent, Create
+  - Integration: Workato, Lindy, Relay.app, Bardeen, Tray.ai, Albato
+  - Data & Analytics: Xano, SmartSuite, Rows, Notion, Fibery, Hex
+
+### Changed
+
+- Refreshed all GitHub star counts against the live GitHub API (n8n 200k+, Dify 155k+, Langflow 155k+, Supabase 110k+, etc.)
+- Expanded and re-sorted the open-source comparison table
+- Added Lovable, Webflow, and Softr to the commercial comparison table
+- Updated GrapesJS link to its new `GrapesJS/grapesjs` org location
 
 ## [1.0.0] - 2025-09-18
 
