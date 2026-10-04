@@ -912,6 +912,23 @@ Low-Code/No-Code platforms are transforming software development by enabling rap
 
 ---
 
+#### [Syl](https://www.usesyl.com)
+
+> Build a team of AI teammates in plain words, no developer needed
+
+**Key Features:**
+
+- Give each teammate a job (research, writing, admin, inbox, sales, support) by describing it in plain language
+- Teammates share conversations and hand work to each other
+- On-demand computer for browsing, files and apps, plus memory that lasts
+- Any task can become a routine that repeats on a schedule
+- Connects to tools through MCP; works on web, desktop and mobile
+
+**Pricing:** Paid plans from $49/month ([details](https://www.usesyl.com/pricing)); bring your own AI provider or pay as you go
+**Best For:** Non-technical teams automating research, writing, inbox and admin work
+
+---
+
 #### [Figma AI](https://www.figma.com/design/)
 
 > AI-powered collaborative design platform with advanced visual editing and design system integration
