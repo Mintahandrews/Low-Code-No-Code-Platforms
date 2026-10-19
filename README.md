@@ -1682,6 +1682,21 @@ Low-Code/No-Code platforms are transforming software development by enabling rap
 
 ---
 
+#### [Helmpages](https://helmpages.com/)
+
+> Website service for independent professionals and small businesses: built from a few simple answers, then kept up to date by message
+
+**Key Features:**
+
+- Website built from a few simple answers, no design knowledge needed
+- Update by sending a message in your own language, with a before/after and nothing live until you approve
+- Shows services, prices, real reviews, photos, credentials, hours and your booking link
+
+**Pricing:** Paid; from $29/month, 14-day trial (payment method required)
+**Best For:** Independent professionals and small business owners
+
+---
+
 #### Lovable
 
 > AI full-stack app builder — describe your app and ship it
